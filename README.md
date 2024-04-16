@@ -85,6 +85,8 @@ and data.
     is taking form of getting taxonomic hierarchy data (via the
     [taxize](https://cran.rstudio.com/web/packages/taxize/index.html) package) to facilitate
     taxonomic summaries. Visualization isn’t done yet.
+  - [yatah](https://cran.r-project.org/package=yatah) provides functions to handle taxonomic lineages, 
+    such as extracting clades or computing taxonomic tree.
 
 ## Handling Taxonomic Name Lists
 
